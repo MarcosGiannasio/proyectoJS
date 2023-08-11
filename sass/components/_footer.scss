@@ -1,0 +1,40 @@
+footer {
+  font-size: 1rem;
+  background-image: linear-gradient(180deg, $fontLigth, $fontLigthObscure);
+  margin: 0 auto;
+
+  &__container {
+    height: 15%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+    &-end {
+      height: 50px;
+      display: flex;
+      justify-content: center;
+      gap: 0;
+    }
+  }
+
+  &__items1 {
+    text-align: center;
+  }
+  &__items {
+    text-align: center;
+  }
+  &__redes {
+    text-align: center;
+  }
+}
+
+footer {
+  background-color: $fontLigth;
+}
+
+.privacy:hover {
+@extend .estilo;
+}
+

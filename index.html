@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Contrataciones y asesoramiento para decoración de interiores, visitanos y decorá tu espacio"
+    />
+    <title>MB - Diseño y Decoración de Interiores</title>
+    <link rel="stylesheet" href="./css/main.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="./css/main.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <link
+      rel="shortcut icon"
+      href="./assets/images/logoBrown.JPG"
+      type="image/x-icon"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./main.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+
+  <body>
+    <header class="header">
+      <nav class="navbar navbar-expand-md">
+        <div class="container">
+          <a class="navbar-brand" href="./index.html"
+            ><img
+              src="./assets/images/logoBrown.JPG"
+              class="header__container-logo rounded"
+              alt="Logo Pagina"
+          /></a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div
+            class="collapse navbar-collapse mt-3 mt-md-0 justify-content-end"
+            id="navbarSupportedContent"
+          >
+            <ul 
+              class=" item navbar-nav me-auto me-md-0 mb-2 mb-lg-0 align-items-center"
+            >
+              <li class="nav-item mb-2 mb-md-0 me-md-3">
+                <a  id="pages" href="./pages/login.html">Ingresá</a>
+              </li>
+              <li class="nav-item mb-2 mb-md-0 me-md-3">
+                <a href="./pages/shop.html">Comprá</a>
+              </li>
+              <li class="nav-item mb-2 mb-md-0 me-md-3">
+                <a  id="pages" href="./pages/contact.html">Contactanos</a>
+              </li>
+              <li class="nav-item">
+                <label for="Busqueda"></label>
+                <input
+                  type="search"
+                  class="icono-placeholder-image rounded"
+                  placeholder=" "
+                  id="Busqueda"
+                />
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <hr class="mb-3"/>
+    <main class="principal container my-5">
+      <div class="row mb-5">
+        <div class="text-center text-md-start col-12 col-md-6">
+          <h1>TU CASA, COMO SIEMPRE LA SOÑASTE</h1>
+          <img
+            src="./assets/images/IndexSofa.png"
+            width="70"
+            height="70"
+            alt="imagenSofa"
+          />
+          <img
+            src="./assets/images/IndexHeart.png"
+            alt="imagenCorazon"
+            width="70"
+            height="70"
+          />
+        </div>
+        <div class="col-12 col-md-6 text-center text-md-end">
+          <video
+            class="w-100"
+            style="max-width: 500px"
+            src="./assets/videos/VideoDeco2.mp4"
+            autoplay
+            muted
+            loop
+          ></video>
+        </div>
+      </div>
+      <hr />
+      <div class="row">
+        <div
+          class="col-12 col-md-6 text-center text-md-start order-1 order-md-0"
+        >
+          <video
+            class="w-100"
+            style="max-width: 500px"
+            src="./assets/videos/VideoDeco.mp4"
+            autoplay
+            muted
+            loop
+          ></video>
+        </div>
+        <div class="text-center text-md-end col-12 col-md-6 order-0 order-md-1">
+          <h2 class="h4">
+            Nuestra pasión es el diseño, hacemos de tu casa un hogar. Nos
+            especializamos en la decoración y el diseño de interiores para tu
+            hogar, comercio y todo tipo de espacios
+          </h2>
+        </div>
+      </div>
+    </main>
+    <footer class="lead">
+      <ul class="row p-3 container">
+        <li class="privacy col-12 col-md-4 text-center text-md-start mb-2">
+          <a href="./pages/privacy.html" class="h6">Politica de privacidad</a>
+        </li>
+        <li class="col-12 col-md-4 text-center mb-2">
+          <h3 class="h6">Monica Baez, todos los derechos reservados | 2023</h3>
+          <div>
+            <a  id="btn"> 
+              <p id="temperatura" class="weather"></p>
+            </a>
+          </div>
+        </li>
+        <li class="col-12 col-md-4">
+          <ul class="d-flex justify-content-center justify-content-md-end">
+            <li>
+              <a href="https://wa.me/+5491135925309" target="_blank">
+                <img
+                  src="./assets/images/whatsapp.svg"
+                  alt="Whatsapp"
+                  width="35"
+                  height="35"
+                />
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/?lang=es" target="_blank">
+                <img class="rounded"
+                  src="./assets/images/twitter3.png"
+                  alt="Twitter"
+                  width="30"
+                  height="31"
+                />
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/" target="_blank">
+                <img
+                  src="./assets/images/Instagram.png"
+                  alt="Instagram"
+                  width="35"
+                  height="35"
+                />
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>

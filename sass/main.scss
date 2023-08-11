@@ -1,0 +1,14 @@
+// utils
+@import './utils/variables';
+@import './utils/global';
+
+// components
+@import './components/footer';
+@import './components/header';
+
+// views
+@import './views/index';
+@import './views/contact/contact';
+@import './views/login/login';
+@import './views/privacy/privacy';
+

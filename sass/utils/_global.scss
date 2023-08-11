@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*HR*/
+hr {
+  border: none;
+  height: 2px;
+  background: $fontLigth;
+}
+
+@font-face {
+  font-family: 'LeagueGothic';
+  src: url('../assets/ttf/LeagueGothic-Regular.ttf');
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+// extend
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.estilo{
+  text-decoration: none;
+  color: rgb(55, 55, 149);
+  font-style: oblique;
+
+}
+// mixin
+@mixin templateGrid($column) {
+  display: grid;
+  grid-template-columns: repeat($column, 1fr);
+  gap: 0;
+}
+
+.navbar-toggler {
+  border: 2.5px solid #a1505e;
+}
+
+.navbar-toggler:focus {
+  border: 2.5px solid #a1505e;
+  box-shadow: 0 0 0 2.5px #a1505e;
+}

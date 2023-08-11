@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*HR*/
+hr {
+  border: none;
+  height: 2px;
+  background: rgb(220, 220, 220);
+}
+
+@font-face {
+  font-family: "LeagueGothic";
+  src: url("../assets/ttf/LeagueGothic-Regular.ttf");
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+.container, .header__container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.estilo, .reset:hover, .privacy:hover {
+  text-decoration: none;
+  color: rgb(55, 55, 149);
+  font-style: oblique;
+}
+
+.navbar-toggler {
+  border: 2.5px solid #a1505e;
+}
+
+.navbar-toggler:focus {
+  border: 2.5px solid #a1505e;
+  box-shadow: 0 0 0 2.5px #a1505e;
+}
+
+footer {
+  font-size: 1rem;
+  background-image: linear-gradient(180deg, rgb(220, 220, 220), rgb(141, 133, 133));
+  margin: 0 auto;
+}
+footer__container {
+  height: 15%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+footer__container-end {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 0;
+}
+footer__items1 {
+  text-align: center;
+}
+footer__items {
+  text-align: center;
+}
+footer__redes {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(220, 220, 220);
+}
+
+.header {
+  padding: 30px 20px;
+  background-image: linear-gradient(180deg, rgb(220, 220, 220), rgb(141, 133, 133));
+  font-family: "LeagueGothic";
+}
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__container-logo {
+  height: 75px;
+  width: 123px;
+}
+.header__container-navbar {
+  display: none;
+}
+
+.icono-placeholder-image::placeholder {
+  background-image: url(../assets/images/IconSearch.png);
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: 0.5rem center;
+}
+
+@media (min-width: 768px) {
+  .header__container-navbar {
+    display: flex;
+  }
+  .header__container-navbar label {
+    padding: 15px;
+  }
+  .header__container-navbar input {
+    font-family: "LeagueGothic";
+  }
+  .header__container-navbar li {
+    margin: 0 15px;
+  }
+  .header__container-navbar li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .item {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+  }
+  .item :hover {
+    color: rgba(243, 70, 171, 0.953);
+    text-shadow: 1px;
+    border-bottom: 4px solid gray;
+  }
+  .header__container-navbar-mobile {
+    display: none;
+  }
+}
+.principal {
+  font-family: "LeagueGothic";
+}
+
+.mainContact {
+  background-image: url(../assets/images/backgroundImage.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.reset {
+  font-size: 15px;
+}
+
+.politics {
+  background-image: linear-gradient(180deg, rgb(255, 255, 255), rgb(200, 200, 200));
+}
+
+.headerPrivacy {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 30px 20px;
+  background-image: linear-gradient(180deg, rgb(220, 220, 220), rgb(141, 133, 133));
+}
+
+.weather {
+  text-align: center;
+}
+.weather:hover {
+  color: rgba(243, 70, 171, 0.953);
+    text-shadow: 1px;
+    font-style: bold;
+    
+}

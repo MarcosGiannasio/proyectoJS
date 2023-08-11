@@ -1,0 +1,66 @@
+.header {
+  padding: 30px 20px;
+  background-image: linear-gradient(180deg, $fontLigth, $fontLigthObscure);
+
+  &__container {
+    @extend .container;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &-logo {
+      height: 75px;
+      width: 123px;
+    }
+    &-navbar {
+      display: none;
+    }
+  }
+  font-family: 'LeagueGothic';
+}
+.icono-placeholder-image::placeholder {
+  background-image: url(../assets/images/IconSearch.png);
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+  background-position: 0.5rem center;
+}
+
+@media (min-width: $bpMedium) {
+  .header__container-navbar {
+    display: flex;
+  }
+
+  .header__container-navbar label {
+    padding: 15px;
+  }
+
+  .header__container-navbar input {
+    font-family: 'LeagueGothic';
+  }
+
+  .header__container-navbar li {
+    margin: 0 15px;
+  }
+
+  .header__container-navbar li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  .item {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+  }
+  .item :hover {
+    color: rgba(243, 70, 171, 0.953);
+    text-shadow: 1px;
+    border-bottom: 4px solid gray;
+  }
+
+  .header__container-navbar-mobile {
+    display: none;
+  }
+}
+  

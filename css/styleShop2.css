@@ -1,0 +1,139 @@
+hr {
+          color: black;
+      }
+      html {
+          font-size: 62.5%;
+      }
+      body {
+          background-color: #cbcbcb
+      }
+      h1 {
+          text-align: center;
+      }
+      h2 {
+          font-size: 3rem;
+      }
+      h4 {
+          font-size: 2rem;
+          font-weight: 700;
+      }
+      header {
+          /* background-image: linear-gradient(180deg, rgb(220, 220, 220), rgb(141, 133, 133)); */
+          text-align: center;
+      
+      }
+      @media (min-width: 750px) {
+          header {
+              text-align: left;
+          }
+      }
+      
+      
+      ul {
+          list-style: none;
+      }
+      
+      #encabezado {
+          margin: 30px 0;
+          font-size: 10;
+      }
+      
+      .submenu {
+          position: relative;
+      }
+      
+      #img-carrito {
+          cursor: pointer;
+      }
+      
+      .card {
+          text-align: center;
+          border: 1px solid #e1e1e1;
+          background: white;
+          box-shadow: 2px 2px 5px #999;
+          border-radius: 10px;
+      
+      }
+      .info-card {
+          padding: 10px 20px;
+      }
+      
+      .info-card p, 
+      .card h4 {
+          margin-bottom: 5px;
+      }
+      
+      
+      .info-card .precio {
+          text-decoration:none;
+          font-size: 18px;
+          margin-top: 10px;
+      
+          font-weight: 700;
+          font-size: 18px;
+      }
+      
+      
+      .texto-carrito{
+          text-decoration: none;
+          font-style: bold;
+          color: black;
+          
+      }
+      
+      
+      #lista-producto .row {
+          margin-bottom: 20px;
+      }
+      
+      
+      .agregar-carrito {
+          margin: 10px 0;
+      }
+      
+      
+      .submenu #carrito {
+          display: none;
+          border-radius: 10px;
+      }
+      
+      .submenu:hover #carrito {
+          display: block;
+          position: absolute;
+          right: 0;
+          top: 100%;
+          z-index: 1;
+          background-image: linear-gradient(45deg, rgb(233, 232, 233), rgb(255, 210, 210));
+          padding: 20px;
+          min-height: 400px;
+          min-width: 300px;
+      }
+
+      .toastify {
+        padding: 12px 20px;
+        color: #ffffff;
+        display: inline-block;
+        box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.12), 0 10px 36px -4px rgba(71, 65, 69, 0.3);
+        background: -webkit-linear-gradient(315deg, #703f54, #a03487);
+        background: linear-gradient(135deg, #e24596, #ef6c8d);
+        position: fixed;
+        top: -150px;
+        right: 15px;
+        opacity: 0;
+        transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
+        border-radius: 2px;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+      .toastify.on { opacity: 1; }
+      
+      .weather {
+        text-align: center;
+      }
+      .weather:hover {
+        color: rgba(243, 70, 171, 0.953);
+          text-shadow: 1px;
+          font-style: bold;          
+      }
+      
+      
