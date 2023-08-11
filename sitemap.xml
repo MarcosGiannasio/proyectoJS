@@ -8,29 +8,209 @@
 
 
 <url>
-  <loc>https://marcosgiannasio.github.io/preEntrega3Giannasio/</loc>
-  <lastmod>2023-05-23T07:05:21+00:00</lastmod>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://marcosgiannasio.github.io/preEntrega3Giannasio/index.html</loc>
-  <lastmod>2023-05-23T07:05:21+00:00</lastmod>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/issues</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://marcosgiannasio.github.io/preEntrega3Giannasio/pages/login.html</loc>
-  <lastmod>2023-05-23T07:05:21+00:00</lastmod>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/pulls</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://marcosgiannasio.github.io/preEntrega3Giannasio/pages/contact.html</loc>
-  <lastmod>2023-05-23T07:05:21+00:00</lastmod>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/actions</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://marcosgiannasio.github.io/preEntrega3Giannasio/pages/privacy.html</loc>
-  <lastmod>2023-05-23T07:05:21+00:00</lastmod>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/projects?query=is%3Aopen</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/security</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/releases</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/compare</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels?sort=name-asc</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels?sort=name-desc</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels?sort=count-desc</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels?sort=count-asc</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/bug</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/documentation</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/duplicate</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/enhancement</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/good%20first%20issue</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/help%20wanted</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/invalid</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/question</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/labels/wontfix</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcosGiannasio/proyectoJS/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-08-11T22:40:02+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
