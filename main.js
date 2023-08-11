@@ -103,7 +103,7 @@ function miAlerta(evt){
 // Evitar reload de pagina
  
 
-let urlPages;
+let urlPages ;
 
 
 const links = document.querySelectorAll('#pages')
@@ -114,8 +114,8 @@ for(let link of links){
 
 function setURL(evt){
     evt.preventDefault()
- //console.log(evt.target.href)
-    urlPages = evt.target.href,
+    // console.log(evt.target.href)
+    urlPages = evt.target.href
     pedirPagina(urlPages)
 
 }
