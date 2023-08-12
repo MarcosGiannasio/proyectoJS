@@ -103,7 +103,7 @@ function miAlerta(evt){
 // Evitar reload de pagina
  
 
-let urlPages ;
+/* let urlPages ;
 
 
 const links = document.querySelectorAll('#pages')
@@ -134,3 +134,4 @@ function pedirPagina(urlPages) {
         alert(err);
       })
 }
+ */
